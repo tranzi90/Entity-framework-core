@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002_Подключение к базе данных. Строки подключения", "002_Подключение к базе данных. Строки подключения", "{E1E20E59-8E0A-472A-8624-C7A1C6B86CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreBasic_002.Ч†бвм_2.СваЃ™®_ѓЃ§™Ђоз•≠®п", "EfCoreBasic_002.Ч†бвм_2.СваЃ™®_ѓЃ§™Ђоз•≠®п\EfCoreBasic_002.Ч†бвм_2.СваЃ™®_ѓЃ§™Ђоз•≠®п.csproj", "{F892E0EC-74B0-4852-B4A2-67445522584F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле", "1\EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле.csproj", "{93896EA1-2C29-46BA-9980-1A4894AF5268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreBasic_002.Ч†бвм_3.Ш®даЃҐ†≠®•_бваЃ™®_ѓЃ§™Ђоз•≠®п", "EfCoreBasic_002.Ч†бвм_3.Ш®даЃҐ†≠®•_бваЃ™®_ѓЃ§™Ђоз•≠®п\EfCoreBasic_002.Ч†бвм_3.Ш®даЃҐ†≠®•_бваЃ™®_ѓЃ§™Ђоз•≠®п.csproj", "{DC1D095E-125B-4EE8-B181-79F4E1D3BDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F892E0EC-74B0-4852-B4A2-67445522584F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F892E0EC-74B0-4852-B4A2-67445522584F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F892E0EC-74B0-4852-B4A2-67445522584F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F892E0EC-74B0-4852-B4A2-67445522584F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93896EA1-2C29-46BA-9980-1A4894AF5268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93896EA1-2C29-46BA-9980-1A4894AF5268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93896EA1-2C29-46BA-9980-1A4894AF5268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93896EA1-2C29-46BA-9980-1A4894AF5268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1D095E-125B-4EE8-B181-79F4E1D3BDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1D095E-125B-4EE8-B181-79F4E1D3BDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1D095E-125B-4EE8-B181-79F4E1D3BDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1D095E-125B-4EE8-B181-79F4E1D3BDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9EA8A5-A5D2-47E2-ABA6-2E8780F428DD}
+	EndGlobalSection
+EndGlobal
