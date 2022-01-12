@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxTz7rKHgsX0FKQca41XzrpyktJ7SGVpHgPiLiZkIEuEhVPbHnKHy1fxTgnj4MOluBK26mgnV2/yaajc/CGcGw==",
+  "dgSpecHash": "9uVGoe6KcA96w9ASmeWI0y7/vomlvMCTOPjgCXdAo/p9pLqwQFp6dMBBximpmv81f49NEglZu75oCTP2Z4/WAg==",
   "success": true,
-  "projectFilePath": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле.csproj",
+  "projectFilePath": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.1.csproj",
   "expectedPackageFiles": [
     "/Users/denis_levchenko/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/denis_levchenko/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

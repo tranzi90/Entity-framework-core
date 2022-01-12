@@ -5706,9 +5706,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле.csproj",
-      "projectName": "EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле",
-      "projectPath": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.Ч†бвм_1.ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле.csproj",
+      "projectUniqueName": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.1.csproj",
+      "projectName": "EfCoreBasic_002.1",
+      "projectPath": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/EfCoreBasic_002.1.csproj",
       "packagesPath": "/Users/denis_levchenko/.nuget/packages/",
       "outputPath": "/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/1/obj/",
       "projectStyle": "PackageReference",

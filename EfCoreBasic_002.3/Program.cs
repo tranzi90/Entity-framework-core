@@ -34,7 +34,7 @@ namespace EfCoreBasic_002.Часть_3.Шифрование_строки_под�
             Console.WriteLine(configuration.GetDebugView());
 
             // получаем из конфигурации строку подключения
-            var connectionString = configuration.GetConnectionString("EfCoreBasicDatabase");
+            var connectionString = configuration.GetConnectionString("EFcoreDB");
 
             optionsBuilder
                 .UseSqlServer(connectionString)
