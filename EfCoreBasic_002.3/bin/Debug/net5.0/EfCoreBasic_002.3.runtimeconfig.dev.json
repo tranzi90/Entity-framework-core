@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/denis_levchenko/.dotnet/store/|arch|/|tfm|",
+      "/Users/denis_levchenko/.nuget/packages"
+    ]
+  }
+}

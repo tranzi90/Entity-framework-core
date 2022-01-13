@@ -1,0 +1,11 @@
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/bin/Debug/net5.0/EfCoreBasic_002.2
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/bin/Debug/net5.0/EfCoreBasic_002.2.dll
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/bin/Debug/net5.0/EfCoreBasic_002.2.pdb
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.csproj.AssemblyReference.cache
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.AssemblyInfoInputs.cache
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.AssemblyInfo.cs
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.csproj.CoreCompileInputs.cache
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.dll
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/ref/EfCoreBasic_002.2.dll
+/Users/denis_levchenko/Downloads/ef-core-basics-materials/002_ПЃ§™Ђоз•≠®•_™_°†І•_§†≠≠ле_СваЃ™®_ѓЃ§™Ђоз•≠®п/EfCoreBasic_002.2/obj/Debug/net5.0/EfCoreBasic_002.2.pdb
